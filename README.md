@@ -1,2 +1,2 @@
 # python-learning
-My Pyrhon learning journey and beginner programs
+My Python learning journey and beginner programs
